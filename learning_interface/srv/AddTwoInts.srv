@@ -1,0 +1,6 @@
+int64 a     # axis index
+int64 b    # state
+---
+int64 equal    # current state
+string message # informational, e.g. for error messages
+bool success   # indicate successful run of triggered service
