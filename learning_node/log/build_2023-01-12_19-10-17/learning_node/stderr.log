@@ -1,0 +1,7 @@
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+  File "/home/chris/dev_ws/src/ros2_21_tutorials/learning_node/install/learning_node/lib/python3.10/site-packages/learning_node/node_helloworld.py", line 22
+    rclpy.shutdown)                             # 关闭ROS2 Python接口
+                  ^
+SyntaxError: unmatched ')'
+

@@ -1,0 +1,29 @@
+[0.569s] Invoking command in '/home/chris/dev_ws/src/ros2_21_tutorials/learning_node': PYTHONPATH=/home/chris/dev_ws/src/ros2_21_tutorials/learning_node/build/learning_node/prefix_override:/home/chris/dev_ws/src/ros2_21_tutorials/learning_node/install/learning_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/learning_node build --build-base /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/build/learning_node/build install --record /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/build/learning_node/install.log --single-version-externally-managed
+[0.788s] running egg_info
+[0.788s] writing build/learning_node/learning_node.egg-info/PKG-INFO
+[0.789s] writing dependency_links to build/learning_node/learning_node.egg-info/dependency_links.txt
+[0.789s] writing entry points to build/learning_node/learning_node.egg-info/entry_points.txt
+[0.789s] writing requirements to build/learning_node/learning_node.egg-info/requires.txt
+[0.789s] writing top-level names to build/learning_node/learning_node.egg-info/top_level.txt
+[0.790s] reading manifest file 'build/learning_node/learning_node.egg-info/SOURCES.txt'
+[0.791s] writing manifest file 'build/learning_node/learning_node.egg-info/SOURCES.txt'
+[0.791s] running build
+[0.791s] running build_py
+[0.791s] copying learning_node/node_helloworld.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/build/learning_node/build/lib/learning_node
+[0.792s] running install
+[0.792s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.792s]   warnings.warn(
+[0.792s] running install_lib
+[0.793s] copying /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/build/learning_node/build/lib/learning_node/node_helloworld.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/install/learning_node/lib/python3.10/site-packages/learning_node
+[0.793s] byte-compiling /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/install/learning_node/lib/python3.10/site-packages/learning_node/node_helloworld.py to node_helloworld.cpython-310.pyc
+[0.794s] running install_data
+[0.794s] running install_egg_info
+[0.796s] removing '/home/chris/dev_ws/src/ros2_21_tutorials/learning_node/install/learning_node/lib/python3.10/site-packages/learning_node-0.0.0-py3.10.egg-info' (and everything under it)
+[0.796s] Copying build/learning_node/learning_node.egg-info to /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/install/learning_node/lib/python3.10/site-packages/learning_node-0.0.0-py3.10.egg-info
+[0.797s] running install_scripts
+[0.814s] Installing node_helloworld script to /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/install/learning_node/lib/learning_node
+[0.815s] Installing node_helloworld_class script to /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/install/learning_node/lib/learning_node
+[0.815s] Installing node_object script to /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/install/learning_node/lib/learning_node
+[0.815s] Installing node_object_webcam script to /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/install/learning_node/lib/learning_node
+[0.815s] writing list of installed files to '/home/chris/dev_ws/src/ros2_21_tutorials/learning_node/build/learning_node/install.log'
+[0.839s] Invoked command in '/home/chris/dev_ws/src/ros2_21_tutorials/learning_node' returned '0': PYTHONPATH=/home/chris/dev_ws/src/ros2_21_tutorials/learning_node/build/learning_node/prefix_override:/home/chris/dev_ws/src/ros2_21_tutorials/learning_node/install/learning_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/learning_node build --build-base /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/build/learning_node/build install --record /home/chris/dev_ws/src/ros2_21_tutorials/learning_node/build/learning_node/install.log --single-version-externally-managed
