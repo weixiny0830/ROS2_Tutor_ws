@@ -1,0 +1,51 @@
+[0.573s] Invoking command in '/home/chris/dev_ws/src/ros2_21_tutorials/learning_service': PYTHONPATH=/home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/prefix_override:/home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/learning_service build --build-base /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build install --record /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/install.log --single-version-externally-managed
+[0.824s] running egg_info
+[0.825s] creating build/learning_service/learning_service.egg-info
+[0.825s] writing build/learning_service/learning_service.egg-info/PKG-INFO
+[0.825s] writing dependency_links to build/learning_service/learning_service.egg-info/dependency_links.txt
+[0.825s] writing entry points to build/learning_service/learning_service.egg-info/entry_points.txt
+[0.825s] writing requirements to build/learning_service/learning_service.egg-info/requires.txt
+[0.826s] writing top-level names to build/learning_service/learning_service.egg-info/top_level.txt
+[0.826s] writing manifest file 'build/learning_service/learning_service.egg-info/SOURCES.txt'
+[0.827s] reading manifest file 'build/learning_service/learning_service.egg-info/SOURCES.txt'
+[0.828s] writing manifest file 'build/learning_service/learning_service.egg-info/SOURCES.txt'
+[0.828s] running build
+[0.828s] running build_py
+[0.828s] creating /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build
+[0.828s] creating /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib
+[0.828s] creating /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib/learning_service
+[0.829s] copying learning_service/__init__.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib/learning_service
+[0.829s] copying learning_service/service_adder_server.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib/learning_service
+[0.829s] copying learning_service/service_adder_client.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib/learning_service
+[0.829s] copying learning_service/service_object_server.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib/learning_service
+[0.829s] copying learning_service/service_object_client.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib/learning_service
+[0.830s] running install
+[0.830s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.830s]   warnings.warn(
+[0.830s] running install_lib
+[0.831s] creating /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.831s] copying /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib/learning_service/__init__.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.831s] copying /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib/learning_service/service_adder_server.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.832s] copying /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib/learning_service/service_adder_client.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.832s] copying /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib/learning_service/service_object_server.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.832s] copying /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build/lib/learning_service/service_object_client.py -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service
+[0.832s] byte-compiling /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service/__init__.py to __init__.cpython-310.pyc
+[0.832s] byte-compiling /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service/service_adder_server.py to service_adder_server.cpython-310.pyc
+[0.833s] byte-compiling /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service/service_adder_client.py to service_adder_client.cpython-310.pyc
+[0.833s] byte-compiling /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service/service_object_server.py to service_object_server.cpython-310.pyc
+[0.834s] byte-compiling /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service/service_object_client.py to service_object_client.cpython-310.pyc
+[0.834s] running install_data
+[0.835s] creating /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/share/ament_index
+[0.835s] creating /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/share/ament_index/resource_index
+[0.835s] creating /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/share/ament_index/resource_index/packages
+[0.835s] copying resource/learning_service -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/share/ament_index/resource_index/packages
+[0.835s] copying package.xml -> /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/share/learning_service
+[0.835s] running install_egg_info
+[0.836s] Copying build/learning_service/learning_service.egg-info to /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages/learning_service-0.0.0-py3.10.egg-info
+[0.837s] running install_scripts
+[0.855s] Installing service_adder_client script to /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/learning_service
+[0.855s] Installing service_adder_server script to /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/learning_service
+[0.855s] Installing service_object_client script to /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/learning_service
+[0.856s] Installing service_object_server script to /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/learning_service
+[0.856s] writing list of installed files to '/home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/install.log'
+[0.878s] Invoked command in '/home/chris/dev_ws/src/ros2_21_tutorials/learning_service' returned '0': PYTHONPATH=/home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/prefix_override:/home/chris/dev_ws/src/ros2_21_tutorials/learning_service/install/learning_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/learning_service build --build-base /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/build install --record /home/chris/dev_ws/src/ros2_21_tutorials/learning_service/build/learning_service/install.log --single-version-externally-managed
